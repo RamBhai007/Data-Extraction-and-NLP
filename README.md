@@ -1,10 +1,5 @@
 # Data-Extraction-and-NLP
 
-Blackcoffer
-Consulting Website:  https://blackcoffer.com | https://lsalead.com/
-Web App Products: https://netclan.com/ | https://insights.blackcoffer.com/ | https://hirekingdom.com/ | https://workcroft.com/
-Mobile App Products: Netclan | Bwstory
-
 Data Extraction and NLP
 Test Assignment
 
